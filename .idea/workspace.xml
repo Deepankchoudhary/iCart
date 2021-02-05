@@ -19,25 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dd65550-f506-42f1-b6c6-5b042b63589e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyOwnCart/MyOwnCart/templates/Home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/Practice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MyCart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyCart.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyOwnCart/MyOwnCart/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/MyOwnCart/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyOwnCart/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/Tracking.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/Tracking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/basic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyOwnCart/templates/Home.html" beforeDir="false" />
-    </list>
+    <list default="true" id="5dd65550-f506-42f1-b6c6-5b042b63589e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
