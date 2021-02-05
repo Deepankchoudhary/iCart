@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5dd65550-f506-42f1-b6c6-5b042b63589e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MyOwnCart/MyOwnCart/templates/Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/Practice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MyCart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyCart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyOwnCart/MyOwnCart/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/MyOwnCart/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyOwnCart/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/Tracking.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/Tracking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/templates/shop/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyOwnCart/shop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyOwnCart/shop/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyOwnCart/templates/Home.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fMGE1xseWGoQjY2XkBfOUWHik9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Employee Management System" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Working_Project\Myown\Python\MyCart\MyOwnCart\shop\templates\shop" />
+      <recent name="D:\Working_Project\Myown\Python\MyCart\MyOwnCart\MyOwnCart" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dd65550-f506-42f1-b6c6-5b042b63589e" name="Default Changelist" comment="" />
+      <created>1596020432211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596020432211</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
